@@ -1,0 +1,61 @@
+.logo{
+    width: 70px;
+
+}
+nav{
+    box-sizing: border-box;
+    margin-left: 300px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    word-spacing: 20px;
+    
+    
+  }
+  .plant{
+    width:600px;
+    margin-left: 500px;
+    float: right;
+  }
+  h1{
+    margin-left: 200px;
+    font-size: 80px;
+    font-family:sans-serif;
+  }
+  h2{
+    margin-left: 200px;
+    font-size: 80px;
+    font-family:sans-serif;
+    color: crimson;
+  }
+  body{
+    background-color:rgb(241, 211, 231);
+    
+  }
+  p{
+    margin-left: 200px;
+    font-size: 30px;
+  }
+.button{
+    background-color:crimson;
+    color: #fff;
+    border:none;
+    border-radius:30px;
+    min-height:30px; 
+    min-width: 120px;
+}
+.get{
+    background-color:black;
+    color: #fff;
+    border:none;
+    border-radius:30px;
+    min-height:30px; 
+    min-width: 120px;
+    margin-left: 200px;
+}
+section{
+    max-width: max-content;
+}
+.text-section{
+    display: flex;
+}
