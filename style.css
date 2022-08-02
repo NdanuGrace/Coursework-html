@@ -1,6 +1,10 @@
-.logo{
-    width: 70px;
+.dodo{
+    width: 100px;
+    margin-left: 200px;
 
+}
+a:link{
+  text-decoration: none;
 }
 nav{
     box-sizing: border-box;
@@ -9,13 +13,19 @@ nav{
     text-align: center;
     border-radius: 5px;
     word-spacing: 20px;
+    text-decoration: none;
+    text-size-adjust: 10px;
     
     
   }
   .plant{
     width:600px;
-    margin-left: 500px;
+    margin-left: 400px;
     float: right;
+
+    height: 400px;
+    margin-right: 200px;
+    margin-top: 200px;
   }
   h1{
     margin-left: 200px;
@@ -29,7 +39,7 @@ nav{
     color: crimson;
   }
   body{
-    background-color:rgb(241, 211, 231);
+    background-color:rgb(231, 219, 203);
     
   }
   p{
